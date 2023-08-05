@@ -1,4 +1,6 @@
 # WIP!! Gameboy Pocket MGB SHELL CAD for Custimzations and 3D Printing
+NOTE THAT ANY ALTERED VERSION OF THIS SHELL MUST BE MADE PUBLIC AND NO FORM CANNOT BE A CLOSED SOURCE FILE - SEE LISCENCE FOR MORE INFORMATION. 
+
 Introducing the modifiable CAD files for the Gameboy Pocket Shell.  Included are the .sldpart that will allow access to all geometry to make it fully modifiable to facilitate any shell design you have in mind!  With all other necessary geometry already defined!  
 Currently this includes Buttons, Front and Back Shell plates.  Front plate is near complete with a few known issues I'm working on at the moment including being slightly oversided where it has a hard time mating with the OEM shell and the screw posts seem slightly off.  But more work to come on that.  
 ![FrontAssyPicture](https://github.com/PizzaHandhelds/MGB-SHELL-CAD/assets/141514112/a297a933-1839-4a3a-9857-5c0965541c93)
