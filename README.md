@@ -8,3 +8,7 @@ Currently this includes Buttons, Front and Back Shell plates.  Front plate is ne
 ![IMG_1395](https://github.com/PizzaHandhelds/MGB-SHELL-CAD/assets/141514112/c656ad06-b7e1-47dd-a622-acfc7bf95250)
 ![IMG_1406](https://github.com/PizzaHandhelds/MGB-SHELL-CAD/assets/141514112/9393e358-2bbc-46d0-a074-142dac5718a2)
 ![IMG_1404](https://github.com/PizzaHandhelds/MGB-SHELL-CAD/assets/141514112/a69059fb-3589-45e5-8f84-09cb8e979344)
+
+License
+This work is to be used per the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.  This includes a non-commercial restriction where it may not be used for commerical purposes.  
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
