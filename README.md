@@ -5,7 +5,7 @@ Introducing the modifiable CAD files for the Gameboy Pocket Shell.  Included are
 Currently this includes Buttons, Front and Back Shell plates.  Front plate is near complete with a few known issues I'm working on at the moment including being slightly oversided where it has a hard time mating with the OEM shell and the screw posts seem slightly off.  But more work to come on that.  
 
 # License
-This work is to be used per the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.  This includes a non-commercial restriction where it may not be used for commerical purposes.  
+This work is to be used per the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.  This a restriction where it may not be used for commerical purposes.  
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
